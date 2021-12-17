@@ -19,7 +19,7 @@ Average Case : 16-18  ---  O(n) = O(6)
 
 Worst Case : 27  ---  O(2²) = O(36)
 
-Average Case : 2  ---  O(2²) = O(36)
+Best Case : 2  ---  O(2²) = O(36)
 
 
 - Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
